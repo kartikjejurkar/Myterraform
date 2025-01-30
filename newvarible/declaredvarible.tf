@@ -3,5 +3,5 @@ variable age {}
 
 
 variable seconduser {
- default = " Saurabh "
+default =  kartik
 }
